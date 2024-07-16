@@ -12,5 +12,5 @@ git rm -r --cached build
 
 # commit & push the changes
 git add .
-git commit -m "remove ignored files"
+git commit -m "remove ignored files changed"
 git push
