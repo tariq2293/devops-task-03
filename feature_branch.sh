@@ -9,4 +9,4 @@ git add .
 git commit -m "Upgrade logback library and add image url"
 
 # push your changes to remote
-git push
+git push --set-upstream origin feature/changes
