@@ -2,7 +2,7 @@
 
 # Merge bugfix branch into master
 git checkout master
-git merge bugfix/changes
+git merge feature/changes
 
 # Push the merge to remote master
 git push
